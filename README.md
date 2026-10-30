@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Titanic Data Engineering Project – ETL & ELT Pipelines
 
 A practical data engineering project that implements and compares **ETL (Extract, Transform, Load)** and **ELT (Extract, Load, Transform)** workflows using Python, MySQL, and SQL.
@@ -333,3 +334,6 @@ Project Repository: [data_pipeline](https://github.com/mounikarayapalli/data_pip
 ---
 
 ⭐ *A hands-on project exploring how Python and SQL can work together to build, automate, and validate data pipelines using ETL and ELT approaches.*
+=======
+# data_pipeline
+>>>>>>> 46045c7fa673a85a1992436b2a4094a254e62e68
