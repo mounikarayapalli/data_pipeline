@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Titanic Data Engineering Project – ETL & ELT Pipelines
 
 A practical data engineering project that implements and compares **ETL (Extract, Transform, Load)** and **ELT (Extract, Load, Transform)** workflows using Python, MySQL, and SQL.
